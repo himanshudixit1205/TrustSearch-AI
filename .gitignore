@@ -1,0 +1,38 @@
+# Environment variables (contains API keys and secrets)
+.env
+*.env
+*.env.*
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE and editor settings
+.vscode/
+.idea/
